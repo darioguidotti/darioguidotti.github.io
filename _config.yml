@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dario Guidotti"
   avatar           : "profile.png"
-  bio              : "PhD Student"
-  location         : "University of Genoa"
+  bio              : "PhD Student <br/> University of Genoa"
+  location         : "Genoa, Italy"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=3RtDhzAAAAAJ&hl=en"
