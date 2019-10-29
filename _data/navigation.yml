@@ -10,8 +10,5 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Miscellaneous"
-    url: /misc/
-    
   - title: "Contact"
     url: /contact/
