@@ -16,13 +16,3 @@ author_profile: true
 ## Publications
 
 Please refer to [DBLP](https://dblp.org/pers/hd/g/Guidotti:Dario) and [Google Scholar](https://scholar.google.it/citations?user=3RtDhzAAAAAJ&hl=en).
-
-
-## Software
-
-* coming soon...
-
-
-## Additional resources
-
-* coming soon...
